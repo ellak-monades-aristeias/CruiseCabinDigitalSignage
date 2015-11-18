@@ -8,7 +8,7 @@
 συνεχή επανάληψη, ελέγχοντας τα pins εισόδου και ανταποκρίνεται ανάλογα στα pin εξόδου από τη
 στιγμή που εφαρμόζεται τάση λειτουργίας.
 
-![ide](https://cloud.githubusercontent.com/assets/15678604/11170166/f1df9506-8bd4-11e5-9361-e5425dcc309d.png)
+![ide](https://raw.githubusercontent.com/ellak-monades-aristeias/CruiseCabinDigitalSignage/master/Images/IDE_interface.png)
 
 Αρχικά στο κύκλωμα εφαρμόζεται εξωτερική τάση είτε κατευθείαν στην ανάλογη θύρα ή μέσω του
 καλωδίου σύνδεσης USB με τον υπολογιστή.
@@ -20,19 +20,19 @@
 - Εμφανίζεται στην οθόνη το μήνυμα “ Give the Room Number : “ .Ο μικροεπεξεργαστής
 αναμένει την απάντηση από τον χειριστή του τερματικού
 
-![give number](https://cloud.githubusercontent.com/assets/15678604/11170170/f9ce1184-8bd4-11e5-887c-5064b4e83e30.png)
+![give number](https://raw.githubusercontent.com/ellak-monades-aristeias/CruiseCabinDigitalSignage/master/Images/IDE_serial_screen.png)
 
 - Έστω ότι αναζητείται ο κώδικας για τη καμπίνα 11260
 
-![11260](https://cloud.githubusercontent.com/assets/15678604/11170171/fa72e5c4-8bd4-11e5-8fc5-894cb76d26d0.png)
+![11260](https://raw.githubusercontent.com/ellak-monades-aristeias/CruiseCabinDigitalSignage/master/Images/IDE_serial_input.png)
 
 Στην οθόνη θα επιστραφεί το μήνυμα του κώδικα για το συγκεκριμένο δωμάτιο και θα
 εμφανιστεί ο ανάλογος αριθμός και χρώμα στο seven segment led display και RGB led
 αντίστοιχα. Δηλαδή το O RED
 
-![0 red](https://cloud.githubusercontent.com/assets/15678604/11170172/fbea4910-8bd4-11e5-92b4-ed405e4314b8.png)
+![0 red](https://raw.githubusercontent.com/ellak-monades-aristeias/CruiseCabinDigitalSignage/master/Images/IDE_serial_return.png)
 
 Ο κωδικός θα παραμείνει φωτεινός μέχρι την είσοδο του επιβάτη στην καμπίνα, όπου θα
 ενεργοποιείται και η NC επαφή. Στην προκειμένη περίπτωση το button στο pin 02
 
-Μπορείτε να δείτε τα τμήματα κώδικα που χρησιμοποιήθηκαν για την ολοκλήρωση του προγράμματος στο φάκελο [source-code](https://github.com/giannismav/CruiseCabinDigitalSignage/tree/master/Software/Source-Code) όπως και να τα κατεβάσετε απ'τα [παραδοτέα source-code](https://github.com/giannismav/CruiseCabinDigitalSignage#Παραδοτέα-Έργου)
+Μπορείτε να δείτε τα τμήματα κώδικα που χρησιμοποιήθηκαν για την ολοκλήρωση του προγράμματος στο φάκελο [source-code](https://github.com/ellak-monades-aristeias/CruiseCabinDigitalSignage/tree/master/Software/Source-Code) όπως και να τα κατεβάσετε απ'τα [παραδοτέα source-code](https://github.com/ellak-monades-aristeias/CruiseCabinDigitalSignage#Παραδοτέα-Έργου)
