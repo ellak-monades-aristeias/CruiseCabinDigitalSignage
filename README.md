@@ -6,7 +6,7 @@
 
 # CruiseCabinDigitalSignage
 
-![ολοκληρωμένο κυκλωμα]( https://raw.githubusercontent.com/giannismav/CruiseCabinDigitalSignage/master/Images/arduino_circuit.jpg)
+![ολοκληρωμένο κυκλωμα]( https://raw.githubusercontent.com/ellak-monades-aristeias/CruiseCabinDigitalSignage/master/Images/arduino_circuit.jpg)
 
 
 # Hardware
