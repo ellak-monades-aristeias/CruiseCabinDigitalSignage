@@ -4,7 +4,7 @@
 
 ## Εφαρμογή σε πραγματικό πρόβλημα
 
-![cabins](https://raw.githubusercontent.com/giannismav/CruiseCabinDigitalSignage/master/Images/cabins.png)
+![cabins](https://raw.githubusercontent.com/ellak-monades-aristeias/CruiseCabinDigitalSignage/master/Images/cabins.png)
 
 Η εικόνα αναπαριστά έναν πραγματικό διάδρομο σε ένα κρουαζιερόπλοιο
 
@@ -40,7 +40,7 @@
 Σκεφτόμαστε ότι οι επόμενες καμπίνες θα έχουν συνδυασμούς τους οποίους αναλώσαμε μόλις πριν.
 Σε αυτή τη δεύτερη φάση του προβλήματος αυτό που πρέπει να δούμε είναι **“πώς θα φτιάξουμε την επόμενη αλληλουχία χρωμάτων ώστε οι ίδιοι συνδυασμοί να μην βρίσκονται σε κοντινές καμπίνες;”** Ας πειραματιστούμε για να καταλάβουμε την ουσία του προβλήματος:
 
-![syndiasmoi](https://raw.githubusercontent.com/giannismav/CruiseCabinDigitalSignage/master/Images/not_optimal_combination.png)
+![syndiasmoi](https://raw.githubusercontent.com/ellak-monades-aristeias/CruiseCabinDigitalSignage/master/Images/not_optimal_combination.png)
 
 Βλέπουμε ότι έχουμε πετύχει:
 
@@ -61,7 +61,7 @@
 
 Άρα η λύση μας θα απεικονιζόταν ως εξής:
 
-![sindiasmoi2](https://raw.githubusercontent.com/giannismav/CruiseCabinDigitalSignage/master/Images/optimal_combination.png)
+![sindiasmoi2](https://raw.githubusercontent.com/ellak-monades-aristeias/CruiseCabinDigitalSignage/master/Images/optimal_combination.png)
 
 Επαληθεύεται δηλαδή κάτι λογικό, ότι δηλαδή για να βρούμε τη βέλτιστη θέση των επαναλαμβανόμενων συνδυασμών, αναπαράγουμε ακριβώς την ίδια αλυσίδα που χρησιμοποιήσαμε για να βρούμε την βέλτιστη θέση των αρχικών μας συνδυασμών.
 
