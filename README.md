@@ -2,7 +2,7 @@
 
 Το Cruise Cabin Digital Signage έχει σκοπό την ανάπτυξη ενός συστήματος ψηφιακής σηματοδότησης το οποίο θα δίνει λύση στη δυσκολία προσανατολισμού των επιβατών μέσα στον μεγάλο αριθμό καμπινών και διαδρόμων ενός κρουαζιερόπλοιου. Οι επιβάτες θα μπορούν να καθοδηγούνται αποτελεσματικά στην καμπίνα τους με μόνη προϋπόθεση να θυμούνται έναν συνδυασμό αριθμού/χρώματος.
 
-Για μια περιγραφή του έργου δείτε το αρχείο [Ταυτότητα Έργου](https://github.com/ellak-monades-aristeias/CruiseCabinDigitalSignage/tree/master/%CE%A4%CE%B1%CF%85%CF%84%CF%8C%CF%84%CE%B7%CF%84%CE%B1%20%CE%88%CF%81%CE%B3%CE%BF%CF%85)
+Για μια περιγραφή του έργου δείτε το αρχείο [Ταυτότητα Έργου](https://github.com/ellak-monades-aristeias/CruiseCabinDigitalSignage/blob/master/%CE%A4%CE%B1%CF%85%CF%84%CF%8C%CF%84%CE%B7%CF%84%CE%B1%20%CE%88%CF%81%CE%B3%CE%BF%CF%85/%CE%A4%CE%B1%CF%85%CF%84%CF%8C%CF%84%CE%B7%CF%84%CE%B1%20%CE%88%CF%81%CE%B3%CE%BF%CF%85.md)
 
 # CruiseCabinDigitalSignage
 
