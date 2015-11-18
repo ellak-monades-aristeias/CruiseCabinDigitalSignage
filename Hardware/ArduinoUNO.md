@@ -9,7 +9,7 @@
 να πούμε ότι έχει εξειδίκευση σε διαφορετικό τεχνολογικό τομέα από τη στιγμή όπου κάθε πλακέτα
 περιέχει διαφορετικό αριθμό εισόδων – εξόδων αλλά και διαφορετικού είδους .
 
-![arduino UNO](https://raw.githubusercontent.com/giannismav/CruiseCabinDigitalSignage/master/Images/arduino_uno.jpg)
+![arduino UNO](https://raw.githubusercontent.com/ellak-monades-aristeias/CruiseCabinDigitalSignage/master/Images/arduino_uno.jpg)
 
 Στο συγκεκριμένο project επιλέχτηκε σαν πλακέτα επίδειξης μικρής κλίμακας η Arduino UNO.
 Πρόκειται για μια πλακέτα με:
